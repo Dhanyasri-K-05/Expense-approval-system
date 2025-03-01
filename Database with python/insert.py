@@ -14,7 +14,7 @@ def connect_to_db():
         # Connect to your PostgreSQL database
         connection = psycopg2.connect(
             user="postgres",
-            password="tiger",
+            password="#####",
             host="localhost",
             port="5432",
             database="expense_management"
